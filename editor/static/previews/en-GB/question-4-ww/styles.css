@@ -7788,7 +7788,9 @@ input.jme {
 .student-answer .feedback-icon {
     margin-left: 0.2em;
 }
-
+.student-answer{
+  vertical-align: 1.25em;
+}
 .student-answer input, .correct-answer input {
     border: 1px solid #ddd;
     border-bottom-color: #34444f;
